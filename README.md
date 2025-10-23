@@ -7,5 +7,5 @@
 - test 2
 
 ### Publications 
-- [Download](/assets/publication/eg23-hyperelastic-sph-solid.pdf.pdf){: .btn }
+- [Download](/assets/publication/eg23-hyperelastic-sph-solid.pdf){: .btn }
 - test 2 

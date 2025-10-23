@@ -7,5 +7,3 @@ kramdown:
   parse_block_html: true
 include:
   - assets/css
-sass:
-  style: compressed
