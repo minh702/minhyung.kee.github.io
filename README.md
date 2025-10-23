@@ -1,6 +1,4 @@
 
-### Education 
-
 ### Work Experience
 - test 1
 - test 2
