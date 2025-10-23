@@ -2,8 +2,3 @@ title: Min Hyung Kee
 description: test 
 show_downloads: true
 theme: jekyll-theme-minimal
-markdown: kramdown
-kramdown:
-  parse_block_html: true
-include:
-  - assets/css
