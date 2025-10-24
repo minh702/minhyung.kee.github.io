@@ -8,4 +8,6 @@
 ---
 ### Test 
 
-[Download CV](file/test.pdf)
+<a href="/file/test.pdf" download="My_Descriptive_File_Name.pdf" class="my-button-style">
+  Download Paper (PDF)
+</a>
