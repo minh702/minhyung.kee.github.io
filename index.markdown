@@ -7,3 +7,5 @@
 
 ---
 ### Test 
+
+[Download CV](file/test.pdf)
