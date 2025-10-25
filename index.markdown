@@ -9,6 +9,18 @@
 ## Publications
 
 
+<a href="/file/an-optimization-based-SPH-solid-solver.pdf" download="/momentum-preserving-inversion-allevation.pdf" class="my-button-style">Momentum-preserving inversion alleviation for elastic material simulation
+</a>
+
+Heejo Jeong, Seung-wook Kim, JaeHyun Lee, Kiwon Um, **Min Hyung Kee**, and JungHyun Han
+Computer Animation and Virtual Worlds (the 37th International Conference on Computer Animation and Social Agents (CASA), June 5-7, 2024, Wuhan, China). Vol. 35, No. 3, pp. e2249.
+
+<a href="/file/an-optimization-based-SPH-solid-solver.pdf" download="/inversion-allevation.pdf" class="my-button-style">Inversion alleviation for stable elastic body simulation 
+</a>
+
+JaeHyun Lee, Seung-wook Kim, Kiwon Um, **Min Hyung Kee**, and JungHyun Han
+Computer Animation and Virtual Worlds (the 36th International Conference on Computer Animation and Social Agents (CASA), May 29-31, 2023, Limassol, Cyprus). Vol. 34, No. 3-4, pp. e2183
+
 <a href="/file/an-optimization-based-SPH-solid-solver.pdf" download="/an-optimization-based-SPH-solid-solver.pdf" class="my-button-style">An Optimization-based SPH Solver for Simulation of Hyperelastic Solids 
 </a>
 
